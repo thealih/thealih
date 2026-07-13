@@ -1,6 +1,6 @@
 <img alt="Coding" src="https://drive.google.com/uc?export=download&id=1VbBvwTQRyTO_cjgof7sNVNSaOilmL3Ee" width="100%" />
 <h1 align="center">Hi 👋, I'm Ali Hashemi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate backend developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thealih&label=Profile%20views&color=0e75b6&style=flat" alt="thealih" /> </p>
